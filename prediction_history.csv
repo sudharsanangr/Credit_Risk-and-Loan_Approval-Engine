@@ -1,0 +1,2 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,LoanTerm,Probability,Risk,Decision
+5000,0,100,360,84.00%,LOW RISK,APPROVED
